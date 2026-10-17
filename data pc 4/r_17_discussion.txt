@@ -1,0 +1,3 @@
+a. karena setiap tree memiliki kumpulan set edges dan vertices dari root node sampai leaf, tetapi graph tidak bisa disebutkan tree karena untuk syarat tree harus berurut dari root node ke descendant" nya seperti pada binary/trinary/n ary tree
+b. bisa, pertama di kumpulkan ada berapa edge, lalu dikumpulkan set untuk tiap vertices, lalu dari situ tinggal dibuat tree nya (menentukan root nya dulu baru descendant) 
+c. karena untuk struktur sistem dari networking pastinya itu bisa multi arah (kayak subjek a temen sama b dan b temen sama c tapi a temen juga sama c) jadi lebih cocok menggunakan graph ketimbang tree

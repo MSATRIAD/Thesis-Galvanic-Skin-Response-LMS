@@ -1,0 +1,7 @@
+a. Setiap tree adalah graph karena tree memiliki vertices dan set of edges. Sebaliknya, tidak semua graph adalah tree karena graph bisa membentuk sebuah cycle. Sedangkan syarat sebuah tree adalah tidak boleh membentuk cycle.
+
+Contoh sebuah Tree yakni node A memiliki child B dan C, maka dalam representasi graph dapat ditulis {{A,B,C}, {{A,B}, {B,C}}
+
+b. Tidak bisa, sebuah directed graph saja dapat menjadi Tree. Namun jika directed tersebut merupakan cycle maka tidak bisa.
+
+c. Graph lebih tepat digunakan karena dapat membentuk sebuah cycle, satu orang bisa saling terhubung dengan orang lain mana pun, bukan membentuk sebuah hierarki. Misal ada 3 orang yakni A,B,C maka A bisa terhubung B, A bisa terhubung C, dan B bisa terhubung C

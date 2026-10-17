@@ -1,0 +1,5 @@
+A) hal tersebut dikarenakan tree memiliki atuan tambahan dibandingkan dengan graph, yaitu bersifat hirarkis dan tidak memiliki edge cycle. ketika tree tidak memenuhi syarat tersebut, ini hanya menjadi graph.
+
+B) Ya, bisa. pertama, pilih salah satu nodes dari dalam graph. lalu gunakan algoritma baik dsf (kedalaman) atau bsf (hirarki). lalu terciptalah tree baru sesuai dengan metode yang digunakan.
+
+C) graph dapat membentuk cycle edge, sehingga komunikasi antar nodes bisa dilakukan secara langsung. jika menggunakan tree, ada kemungkinan 2 nodes yang ingin berkomunikasi tidak terhubung dengan edge secara langsung, sehingga perlu ke tingkat atas terlebih dulu sebelum pesan sampai ke tujuan

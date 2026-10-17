@@ -1,0 +1,5 @@
+A) Karena pada setiap Graph saling terhubung. sedangkan pada Tree dia akan akhir dari sebuah node / vertices yang dibuatnya. maka dari itu graph tidak sama dengan tree
+
+B) Saya rasa untuk directed graph bisa karena directed graph sendiri masih bisa saling terhubung sedangkan untuk cycle sendiri tidak bisa dikarenakan tidak memiliki akhir.
+
+C) Karena pada konteks social network (Facebook) memiliki data yang saling terhubung, maka dari itu Graph lebih cocok daripada tree. lalu apa sih konsekuensinya jika dipaksa menggunakan tree? jika platform social network mengunakan tree maka platform tersebut akan memiiliki kinerja yang berat dan beberapa data mungkin tidak saling terhubung (berakhir)

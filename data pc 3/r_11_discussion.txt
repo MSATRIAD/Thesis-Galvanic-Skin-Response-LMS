@@ -1,0 +1,3 @@
+a) Graph memiliki vertices dan edges, jika tree memiliki parent dan node. semua tree adalah graph, tetapi semua graph bukan hanya tree. sebuah graph tidak dianggap tree jika ada suatu vertices tidak memiliki hubungan edge dengan vertices lainnya.
+b) Bisa, sebuah directed graph dengan cycle bisa diubah, menjadi tree. caranya hubungkan vertices  dengan vertices dan edge kosong lainnya. maka dari itu. suatu diected graph dengan cycle akan berubah menjadi suatu tree
+c) jika dalam konteks social network atau seperti contohnya platform social media facebook , graph lebih tepat digunakan daripada tree karena tree hrus memiliki parent nya, jika graph tidak

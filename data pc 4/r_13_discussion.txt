@@ -1,0 +1,5 @@
+a. Karena Tree terdiri dari parent node yang kemudian menyambung ke bawah dengan menghubungi setiap vertices yang ada sebagai sub parent. Namun, Graph tidak dapat dikatakan sebagai Tree karena dalam sebuah graph tidak wajib untuk memiliki parent node yang menurun. Sebagai contoh tree dapat dikatakan sebagai graph adalah silsilah keluarga yang saling menyambung ke bawah menyusun vertices dan edge, sedangkan contoh graph tidak dapat pasti dikatakan tree adalah hubungan pertemanan antara 2 sirkel yang berhubungan (tidak ada yang bisa dijadikan patokan sebagai parent node nya walaupun tetap memiliki vertices dan edge yang terhubung)
+
+b. 
+
+c. Seperti yang telah saya jawab di opsi a dimana sebuah hubungan pertemanan antara 2 sirkel tidak akan mempunyai patokan (dalma hal ini yaitu social network) dikarenakan akan merusak hubungan yang terjadi dan tidak akan berjalan natural

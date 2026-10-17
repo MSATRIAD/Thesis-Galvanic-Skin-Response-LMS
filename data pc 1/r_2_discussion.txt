@@ -1,0 +1,5 @@
+a. Karena Tree pasti ada konten atau isinya, tetapi untuk graph bisa aja berupa graph kosong. Misalnya graph memungkinkan untuk diisi oleh ({ }, { }). Untuk tree sudah jelas bahwa setiap nodenya ada misal dari root, ke node dibawahnya.
+
+b. Mungkin bisa caranya dengan menyesuaikan sesuai dengan number node misalnya 1 menjadi rootnya. 1 terhubung dengan node misalnya 2, dan 3. Maka 2 dan 3 menjadi child dari root. 4 terhubung dengan node 2 dan 5 terhubung dengan node. Maka 4 menjadi child untuk node 2, dan 5 menjadi child node 3.
+
+c. Dalam konteks sosial network, ada satu kondisi dimana user baru memiliki akun dan memiliki 0 koneksi atau 0 teman, jika menggunakan graph hal tersebut masih dapat ditoleransi dibandingkan dengan jika menggunakan tree. Jika menggunakan tree, akun baru tersebut bisa saja gagal untuk dibuat karena tree harus terdapat root dan node - nodenya.

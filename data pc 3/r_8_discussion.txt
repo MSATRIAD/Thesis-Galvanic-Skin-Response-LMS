@@ -1,0 +1,3 @@
+a. ({1,2,3},{{1,2},{2,3},{3,1}} adalah graph namun bukan tree karena ada loop atau cyclic dari 1 ke 2 ke 3 dan bisa kembali ke 1. tree tidak bisa membiarkan itu karena struktur hirarki yang ketat.
+b. tidak bisa, karena ada cycle. jika ada cycle, node dengan level bawah bisa langsung berhubungan dengan node level tinggi yang bukan hubungan parent-child. sehingga tidak ada langkah logis yang bisa dilakukan.
+c. karena setiap node social network harus bisa berhubungan langsung sam lain tanpa adanya hierarcy restriction. karena itu, tree tidak bisa digunakan karena jika ingin berhubungan denmgan ancestor yang bukan parent, harus melewati parent tersebut atau ada node in the middle.

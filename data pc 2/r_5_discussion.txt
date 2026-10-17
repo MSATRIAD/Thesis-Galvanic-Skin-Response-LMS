@@ -1,0 +1,5 @@
+a) Karena tree memiliki nodes yang dimana node node tersebut memiliki leaf atau daun yang tersambung, tetapi graph bisa tidak memiliki edges yang tersambung dengan vertex nya.
+
+b) directed graph dengan cycle jika diubah menjadi tree
+
+c) mungkin jika dalam konteks sosial menggunakan tree dibandingkan dengan graph adalah hal tersebut bisa membuat semua orang menjadi tersambung atau terhubung, dan jika menggunakan graph kita bisa memilih untuk tidak terhubung dengan orang tersebut, karena di graph sendiri sebuah vertex bisa tidak memiliki edges, kalau tree setiap tree memiliki root dan di dalamnya terdapat node yang dimana terdapat anakan lagi yang saling terhubung

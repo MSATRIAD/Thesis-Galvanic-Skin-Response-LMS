@@ -1,0 +1,5 @@
+a) karena syarat suatu graph banyak ya, seperti pada video itu kan dijelasinnya simple graph, yang syaratnya adalah harus siklik atau graphnya tertutup jadi setiap node pasti harus kehubung. sedangkan tree itu adalah bentuk graph yang si node nya itu bisa dikatakan sebuah vertex dan hubungan parental dan childrennya itu si edge nya/ gampangnya graph yang digambar secara vertikal.
+
+b)pada dasarnya directed graph gabisa dikatakan sebuah tree karena, sistem traversal pada tree itu go both ways, bisa dari atas dan dari bawah dan diaturnya biasanya lewat parameter bobot (dfs atau bfs) dan juga graph yang siklik itu tidak termasuk syarat sebuah tree, syarat sebuah tree adalah graph terbuka
+
+c) karena facebook adalah platform yang menghubungkan antar objek dengan konteks manusia atau orang, jadinya setiap orang itu pasti punya hubungan antar satu sama lain , e.g saya dan nefrit teman kuliah, nefrit dengan zhaldy teman sma, nanti di sistem rekomendasi friend listnya di page saya bakal memunculkan zhaldy karena hubuungan yang sudah saya jelaskan sebelumnya. kalau pake tree konsekuensinya adalah zhaldy tidak akan bisa mengenali saya

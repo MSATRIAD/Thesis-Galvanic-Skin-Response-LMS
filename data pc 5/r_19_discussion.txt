@@ -1,0 +1,7 @@
+a. Karena Tree tidak memiliki looping edges jadi tidak semua jenis graph memenuhi kategori tree. Contoh edge set tree: ({a,b,c,d,e}, {a,b}, {a,c},{b,d},{b,e})
+Contoh edge set graph yang bukan termasuk tree: ({a,b,c,d,e}, {a,b}, {a,c},{b,d},{b,e},{e,a},{d,a})
+
+b. Tidak bisa karena Tree tidak memiliki looping edges jadi tidak semua jenis graph
+
+c. Dalam konteks social network, Tree tidak cocok dipakai karena bersifat hirarikal tidak bisa terdapat looping edges / relasi yang memutar, maka dari itu graph lebih cocok untuk digunakan. Konsekuensinya ketika dipaksa menggunakan tree adalah tidak akan ada relasi yang terulang. 
+Misalnya: ketika ada hubungan ({a,b,c,d,e}, {a,b}, {a,c},{b,d},{b,e}) maka tidak akan ada relasi antara e dan a.

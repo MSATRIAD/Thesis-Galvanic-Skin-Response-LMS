@@ -1,0 +1,3 @@
+a. Setiap tree bisa disebut graph karena semua tree memenuhi syarat disebut graph, seperti terdiri dari vertice/node dan edge yang menghubungkan nodenya. Tidak semua graph bisa disebut tree karena salah satu syarat untuk menjadi tree adalah tidak ada cycle di data structure tersebut sedangkan graph memiliki kemungkinan tersebut
+b. Bisa tapi mau gamau harus ngehilangin informasi arah dari hubungan antar edges also perlu menghilangkan beberapa hubungan yang membentuk cycles karena tree tidak boleh ada cycle
+c. Jujur tidak tau, tapi mungkin karena performa graph jauh lebih cepat walau lebih kompleks tapi untuk entity besar dengan jutaan data maka performa supposed to be jauh lebih penting

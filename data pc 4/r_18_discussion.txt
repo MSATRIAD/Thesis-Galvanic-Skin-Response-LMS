@@ -1,0 +1,8 @@
+a. konsep utama dari graph adalah suatu penggambaran relasi antar objekk sedangkan fungsi tree menggunakan konsep parent and children node 
+
+edge set pada video : Jill hold chris hand 
+{J,C} , {{J,C}}
+
+b. apabila mengambil dari konsep dasar graph maka tidak bisa sembarang diubah menjadi tree dikarenakan, konsep utama dari graph adalah suatu penggambaran relasi antar objek sedangkan fungsi tree menggunakan konsep parent and children node
+
+C. Mengapa social network lebih cocok menggunakan graph kebanding tree dikarenakan konsep dasar graph yg mengubungkan relasi antar acc lebih baik secara friendlist  individual tetapi sudah masuk ke tree ketika masuk ke group /  komunitas

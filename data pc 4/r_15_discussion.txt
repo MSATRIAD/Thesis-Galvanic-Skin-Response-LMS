@@ -1,0 +1,3 @@
+A)karena tree sendiri harus memiliki hubungan dari verticles dan edges dan untuk graph sendiri merupakan bagian dari tree.Sedangkan kalau graf sendiri sifatnya yaitu memiliki satu root, tidak terfokus memiliki siklus, dan saling terhubung yang dimana hal ini tidak menggambarkan tree.Sehingga dalam random forest sendiri ssetiap pohon yang dibuat merupakan dari susunan tree graph itu sendiri
+b)mungkin bisa dengan cara bantuan penambahan connector/edges yang menghubungkan antar root terebut.
+c) karena dalam graph sendiri itu dia antar verticles saling tersambung satu sama lain dengan bantuan connector/edges yang hal ini mencerminkan dari konsep social network yang saling terhubung.Sedangkan di tree ini konsekuensinya dia 

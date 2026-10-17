@@ -1,0 +1,10 @@
+a. Karena Tree  memiliki edge antar node yang berisikan sequemcial yang dimana node paling atas menunjuk semuanya  yang dibawah. Contoh :
+V,E = {1,2,3,4,5},{(1,2)(1,3)(3,4)(3,5)}
+Yang berarti tree adalah Graph yang dimana graph adalah himpunan Vertices dan himpunan Edges, tapi graph memiliki banyak peraturan tambahan yang tidak menyamai peraturan Tree, seperti Vertecis di graph bisa membuat loop yang dimana tree tidak boleh ada loop. Contoh :
+V,E = {1,2,3},{(1,2),(2,3),(3,1)}
+
+b. Tidak, dikarenakan salah satu peratuan Tree adalah tidak boleh ada loop / cycle seperti contoh graph dibawah
+V,E = {1,2,3},{(1,2),(2,3),(3,1)}
+Karena Tree memiliki edge yang sequencial ke bawah
+
+c. Karena graph memiliki rule set yang lebih bervariatif. Sedangkan Tree memang lebih berfokus pada efisiensi dan kecepatan antar node, makanya untuk metode pencarian simpel tree lebih sering digunakan sedangkan Graph lebih fleksibel

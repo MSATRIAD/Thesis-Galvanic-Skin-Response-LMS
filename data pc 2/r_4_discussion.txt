@@ -1,0 +1,3 @@
+a. karena syarat sbuah tree adalah sbuah node yang terhubung degan node lain tapi sebuah graph tidak perlu node nya terhubung dengan satu sama lain tapi hanya perlu node nya saja (gatau apa ati dari edge set tapi yang jelas tree itu minimal ada node yang terhubung dengan satu sama lain)
+b. lupa apa itu directed graph tapi asumsi saya graph yang memiliki jalur dari node ke node (1 KE 2 tetapi ga 2 ke 1) bisa karena node nya punya tujuan ke node yang lain jadi itu bisa menjadi anak dari node tersebut jika di tree
+c. karena jika misal ada sejuta soical netwrok jika menggunakan tree dia harus menelusuri satu per satu dari node a ke b ke c hingga ke target, tpai jika menggunakan graph a bisa terhubung dengan b,c,d dan seterusnya jadi tidak perlu masuk satu pert satu

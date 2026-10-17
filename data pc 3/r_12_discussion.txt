@@ -1,0 +1,9 @@
+a) Karena Tree harus memiliki edge antar node yang ada di himpunannya. Sedangkan Graph bisa direpresentasikan sebagai empty graph atau null graph meskipun ada banyak edge pada suatu himpunan yang tidak saling memiliki edge.
+
+Contoh Edge Set:
+G: {v,w,x,y,z}, { {v,w}, {v,x} } -> (Graph valid)
+T: {v,w,x,y,z}, { {v,w}, {v,x}, {x,y}, {x,z} } -> (Tree valid, Binary Tree)
+
+b) Tidak bisa, karena Tree harus bersifat acyclic
+
+C) Karena dengan menggunakan graph, setiap user bisa terhubung connectionnya dengan user lain tanpa batas, sedankan jika menggunakan tree, konsekuensinya adalah harus ada root yang menjadi pusat suatu user, sedangkan dalam social network, setiap edge adalah entitas yang setara dengan yang lain (berada di level yang sama)
