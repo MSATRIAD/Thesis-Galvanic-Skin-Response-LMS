@@ -1,2 +1,10 @@
 .DS_Store
 **/.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.streamlit/secrets.toml
+experiments/_cache_shared/
+experiments/exp01_glct_cnn/_cache/
+experiments/exp01_glct_cnn/results/
+experiments/exp35_microsiemens_ab/results/
